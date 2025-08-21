@@ -24,7 +24,7 @@ Minimal UI: Textarea input with a “That’s it” button.
 
 🔹 Installation
 1. Clone the repository:
-git clone <your-repo-url>
+git clone <https://github.com/Aryan-2610/moodmate>
 cd MoodMate
 
 2. Create a Python virtual environment (recommended):
